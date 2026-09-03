@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="IMG_20260903_191234.jpg" alt="SHEIN Smart Assistant Home" width="45%">
-  <img src="products-page.png" alt="SHEIN Smart Assistant Products" width="45%">
+  <img src="IMG_20260903_191234.jpg" alt="SHEIN Smart Assistant Products" width="45%">
 </p>
 
 # E-Commerce Web Application (Shein-Style Frontend & QA Case Study)
