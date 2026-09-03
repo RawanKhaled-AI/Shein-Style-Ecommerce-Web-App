@@ -1,7 +1,7 @@
 ## 📸 Application Screenshots
 
 <p align="center">
-  <img src="IMG_20260903_191234.jpg" alt="SHEIN Smart Assistant Home" width="45%">
+  <img src="IMG_20260903_191248.jpg" alt="SHEIN Smart Assistant Home" width="45%">
   <img src="IMG_20260903_191234.jpg" alt="SHEIN Smart Assistant Products" width="45%">
 </p>
 
